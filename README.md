@@ -109,5 +109,3 @@ String phoneInput = "+850123456789";
 ```
 This validation ensures that phone numbers conform to international standards and country-specific rules.
 
-
-AI(ChatGPT) Generated Description/
